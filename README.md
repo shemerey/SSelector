@@ -1,6 +1,6 @@
 # SSelector (Sketch Selector)
 
-![Sketch Select Similar Layers](https://raw.githubusercontent.com/shemerey/SSelector/master/hands.svg)
+![Sketch Selector](hands.svg)
 
 
 > This plugin selects all layers that have the same fill color as the currently selected layer.
