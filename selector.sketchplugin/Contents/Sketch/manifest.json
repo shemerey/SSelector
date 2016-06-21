@@ -1,0 +1,23 @@
+{
+  "author" : "Anton Shemerey",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "cmd e",
+      "name" : "selector",
+      "identifier" : "selector"
+    }
+  ],
+  "menu" : {
+    "isRoot": true,
+    "items" : [
+      "selector"
+    ]
+  },
+  "identifier" : "com.shemerey.sketch.selector",
+  "version" : "1.0",
+  "description" : "Allow you to select Similar Layers",
+  "authorEmail" : "shemerey@gmail.com",
+  "name" : "selector"
+}

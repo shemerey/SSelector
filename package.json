@@ -1,0 +1,15 @@
+{
+  "name": "selector",
+  "version": "1.0.0",
+  "description": "Allow you to select Similar Layers",
+  "license": "MIT",
+  "author": {
+    "name": "Anton Shemerey",
+    "email": "shemerey@gmail.com"
+  },
+  "scripts": {
+    "manifest:update": "node ./tasks/manifest-update.js",
+    "plugin:install": "node ./tasks/plugin-install.js"
+  },
+  "private": true
+}
