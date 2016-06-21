@@ -2,10 +2,10 @@
   "author" : "Anton Shemerey",
   "commands" : [
     {
-      "script" : "script.cocoascript",
+      "script" : "script.js",
       "handler" : "onRun",
       "shortcut" : "cmd e",
-      "name" : "selector",
+      "name" : "Selector",
       "identifier" : "selector"
     }
   ],
