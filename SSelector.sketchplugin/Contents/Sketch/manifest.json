@@ -5,19 +5,19 @@
       "script" : "script.js",
       "handler" : "onRun",
       "shortcut" : "cmd e",
-      "name" : "Selector",
-      "identifier" : "selector"
+      "name" : "SSelector",
+      "identifier" : "SSelector"
     }
   ],
   "menu" : {
     "isRoot": true,
     "items" : [
-      "selector"
+      "SSelector"
     ]
   },
   "identifier" : "com.shemerey.sketch.selector",
   "version" : "1.0",
   "description" : "Allow you to select Similar Layers",
   "authorEmail" : "shemerey@gmail.com",
-  "name" : "selector"
+  "name" : "SSelector"
 }

@@ -1,10 +1,9 @@
-# selector 
+# SSelector (Sketch Selector)
 
-> My Sketch plugin
+![Sketch Select Similar Layers](http://wessley.me/images/SelectSimilarLayersPlugin.png)
 
-## Install
-
-## Usage
+> This plugin selects all layers that have the same fill color as the currently selected layer.
+Use `CMD-e` to run this plugin.
 
 ## License
 
