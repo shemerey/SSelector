@@ -1,6 +1,6 @@
 # SSelector (Sketch Selector)
 
-![Sketch Selector](hands.svg)
+![Sketch Selector](hands.png)
 
 
 > This plugin selects all layers that have the same fill color as the currently selected layer.
