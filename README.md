@@ -1,6 +1,7 @@
 # SSelector (Sketch Selector)
 
-![Sketch Select Similar Layers](http://wessley.me/images/SelectSimilarLayersPlugin.png)
+![Sketch Select Similar Layers](/hands.svg)
+
 
 > This plugin selects all layers that have the same fill color as the currently selected layer.
 Use `CMD-e` to run this plugin.
@@ -8,3 +9,7 @@ Use `CMD-e` to run this plugin.
 ## License
 
 [Unlicense](http://unlicense.org/)
+
+### Credits
+
+<div>Icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
